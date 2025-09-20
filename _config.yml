@@ -1,2 +1,11 @@
-theme: jekyll-theme-cayman
+title: ""   # Leave blank so no big header text shows
+description: ""   # Leave blank so no subtitle shows
+theme: jekyll-theme-minimal
 markdown: kramdown
+
+# Optional: add navigation links for your pages
+nav:
+  - title: "Privacy Policy"
+    url: /privacy-policy
+  - title: "Terms of Use"
+    url: /terms-of-use
