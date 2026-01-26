@@ -9,9 +9,10 @@ This page explains how users of the **Profixa** app can delete their account and
 Users can delete their account directly within the Profixa app by following these steps:
 
 1. Open the **Profixa** app  
-2. Go to **Settings**  
-3. Select **Delete Account**  
-4. Confirm the deletion request  
+2. Go to **Profile** by using the navigation button at the bototm right
+3. Select the **Settings** icon at the top left in the profile section
+4. Scroll down to the very bottom of the screen to **Delete Account**  
+5. Confirm the deletion request  
 
 ---
 
