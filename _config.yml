@@ -9,3 +9,5 @@ nav:
     url: /privacy-policy
   - title: "Terms of Use"
     url: /terms-of-use
+  - title: "Delete Account"
+    url: /delete-account
